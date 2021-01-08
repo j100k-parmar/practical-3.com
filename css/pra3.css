@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+#header{
+    width: 100%;
+    height: 30px;
+    color: gray;
+}
+#header h1{
+    padding-left: 275px;
+    padding-top: 25px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+#header p{
+    padding-left: 275px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+.menu{
+    display: inline-block;
+    position: relative;
+    top: -29px;
+    left: 820px;
+}
+.menu ul li{
+    float: left;
+    list-style: none;
+    margin-left: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.black_box{
+    height: 343px;
+    width: 1025px;
+    background-color: black;
+    margin: 11px;
+    color: white;
+    font-family: Georgia, "Times New Roman", Times, serif;
+
+}
+.black_box h2{
+    padding-top: 154px;
+    padding-left: 400px;
+
+}
+.border{
+    border: 1px solid gray;
+    width: 1048px;
+    height: 365px;
+    margin-left: 275px;
+    margin-top: 150px;
+}
+.bottom{
+    color: gray;
+    width: 1048px;
+    height: 295px;
+    margin-left: 275px;
+    margin-top: 50px;
+}
+.container{
+    float: left;
+    width: 300px;
+    padding-left: 35px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    
+}
+.text{
+    font-size: 13px;
+    line-height: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+
+}
+ .container p{
+    font-size: 13px;
+   margin-left: 180px;
+    
+
+}
+.container a{
+    color: rgb(238, 139, 73);
+    font-weight: bold;
+    text-decoration: none;
+ 
+}
+.box{
+    float: left;
+    background-color:black;
+    color:white;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    width: 100px;
+    height: 100px;
+    margin-top: 10px;
+    
+}
+.box h5{
+    padding-top: 40px;
+    padding-left: 17px;
+}
+
+.footer{
+    width: 1048px;
+    height: 50px;
+    margin-left: 275px;
+    color: gray;
+
+}
+.left{
+    float: left;
+    padding-top: 15px;
+    padding-left: 50px;
+}
+.right{
+    float: left;
+    padding-left: 300px;
+    padding-top: 15px;
+}
